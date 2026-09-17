@@ -23,3 +23,4 @@ Aplikasi pemesanan tiket sederhana yang dibangun menggunakan Jetpack Compose, di
 Nada Halwa Yuanita — 245150407111021
 
 Program Studi Sistem Informasi, Fakultas Ilmu Komputer, Universitas Brawijaya
+<img width="519" height="964" alt="Hasil Halaman Pemesanan Tiket" src="https://github.com/user-attachments/assets/e456f9d8-3d20-4e28-99d8-713b2df39de8" />
