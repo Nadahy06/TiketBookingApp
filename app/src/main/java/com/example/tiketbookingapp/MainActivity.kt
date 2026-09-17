@@ -48,7 +48,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-// ===== Palet warna (dark neon theme) =====
+
 private val BgDark = Color(0xFF0B0E1A)
 private val CardDark = Color(0xFF161B2C)
 private val CardBorder = Color(0xFF2A3350)
@@ -68,7 +68,7 @@ fun formatRupiah(amount: Int): String {
     return format.format(amount)
 }
 
-// ===== Aturan harga & promo =====
+
 private const val HARGA_VIP = 50_000
 private const val HARGA_REGULER = 25_000
 private const val MIN_TIKET = 1
